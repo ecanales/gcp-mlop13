@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+databases
+sqlalchemy
+joblib
+scikit-learn
+pandas
+pymysql
+python-multipart
+
+
+google-cloud-bigquery
+pandas-gbq
