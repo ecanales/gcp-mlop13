@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir --upgrade pip \
 
 EXPOSE 8080
 
-CMD ["uvicorn", "main_V2:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["uvicorn", "main_v1:app", "--host", "0.0.0.0", "--port", "8080"]
